@@ -1,0 +1,4 @@
+# Duże pliki modeli i datasetów
+*.npz
+*.keras
+.DS_Store

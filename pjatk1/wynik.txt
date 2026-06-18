@@ -1,0 +1,11 @@
+Długość 3: dom, kot
+Długość 4: pies
+Długość 5: klasa, lista, moduł, pętla
+Długość 6: python
+Długość 7: funkcja, program, słownik, zmienna
+Długość 8: algorytm
+Długość 9: framework
+Długość 10: biblioteka, kompilator
+Długość 11: debugowanie, interpreter
+Długość 13: programowanie
+Długość 14: refaktoryzacja
